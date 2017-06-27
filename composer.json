@@ -1,0 +1,17 @@
+{
+    "name": "caicongbin/cc",
+    "authors": [
+        {
+            "name": "cc",
+            "email": "919450058@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+
+    "psr-4": {
+        "Hxit\\Web\\":"src/"
+    }
+}
+}
